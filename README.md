@@ -11,9 +11,9 @@ SUMMARY OF FINDINGS
 2:The three stores contributed nealy the same revenue 
 
 3:Sales by time of day (highest to lowest)
-  Morning
-  Atfternoon
-  Evening
+ * Morning
+*Atfternoon
+ * Evening
 
 4:Product contribution
  Coffee and Tea contributed The most revenue while other products contributed less
