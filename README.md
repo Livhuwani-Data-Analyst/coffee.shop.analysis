@@ -5,8 +5,11 @@ This repository contains a detailed analysis for coffee shop with different loca
 
 
 SUMMARY OF FINDINGS 
+
 1:Revenue increased from month to month
+
 2:The three stores contributed nealy the same revenue 
+
 3:Sales by time of day (highest to lowest)
   Morning
   Atfternoon
@@ -16,9 +19,10 @@ SUMMARY OF FINDINGS
  Coffee and Tea contributed The most revenue while other products contributed less
 
  5:Recommandations
-   Maximise morning traffic
-   increasing stock levels for the top performers to meet demand and maximize revenue
-   optimize per location
-   introduce promotions
+   
+
+* Boost inventory- for top-selling items to meet demand and increase revenue during peak morning hours.
+* Optimize stock levels- and product placement at each location to cater to specific morning traffic patterns.
+* Introduce targeted promotions-to incentivize purchases and drive higher morning sales.
     
  
