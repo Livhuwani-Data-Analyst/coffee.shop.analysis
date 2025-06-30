@@ -1,5 +1,5 @@
 # coffee.shop.analysis
-Coffee.shop.analysis
+
 
 This repository contains a detailed analysis for coffee shop with different location .The goal to understand revenue trends,Sales trends across products and time intervals,What time of day the store performs best and customer behaivor and to be abke to identify srategies to help grow the company
 
@@ -12,7 +12,7 @@ SUMMARY OF FINDINGS
 
 3:Sales by time of day (highest to lowest)
  * Morning
-*Atfternoon
+ * Atfternoon
  * Evening
 
 4:Product contribution
