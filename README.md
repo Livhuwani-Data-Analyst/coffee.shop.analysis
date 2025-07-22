@@ -18,7 +18,11 @@ The quatity sold increased every month in a good rate
 
 📍 Location Revenue Distribution
 The three stores contributed nealy the same revenue 
-Sales by time of day (highest to lowest)
+* Lower Manhttan(R230 057,25)
+* Hell's kitchen(R236 511,17)
+* Astoria(R232 243,91)
+  
+🕒 Time-of-Day Sales Pattern(highest-lowest)
  * Morning
  * Atfternoon
  * Evening
