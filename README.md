@@ -26,16 +26,11 @@ Sales by time of day (highest to lowest)
 ☕ Product Contribution
  *Coffee and Tea contributed (66,7%) of the total revenue 
  *while other products contributed (33.3%)
-
+ 
+ 
  📈 Recommendations
- *Maximize Morning Traffic
- *Bost sales for less performing products
- *Optimize Per Location
- *Strengthen Loyalty & Digital Engagement
-   
-
 * Boost inventory- for top-selling items to meet demand and increase revenue during peak morning hours.
 * Optimize stock levels- and product placement at each location to cater to specific morning traffic patterns.
 * Introduce targeted promotions-to incentivize purchases and drive higher morning sales.
-    
+*Strengthen Loyalty & Digital Engagement    
  
