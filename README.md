@@ -36,5 +36,5 @@ The three stores contributed nealy the same revenue
 * Boost inventory- for top-selling items to meet demand and increase revenue during peak morning hours.
 * Optimize stock levels- and product placement at each location to cater to specific morning traffic patterns.
 * Introduce targeted promotions-to incentivize purchases and drive higher morning sales.
-*Strengthen Loyalty & Digital Engagement    
+* Strengthen Loyalty & Digital Engagement    
  
