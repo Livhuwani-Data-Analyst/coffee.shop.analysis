@@ -24,8 +24,8 @@ Sales by time of day (highest to lowest)
  * Evening
 
 ☕ Product Contribution
-   *Coffee and Tea contributed (66,7%) of the total revenue 
-   *while other products contributed (33.3%)
+   * Coffee and Tea contributed (66,7%) of the total revenue 
+   * while other products contributed (33.3%)
  
  
  📈 Recommendations
